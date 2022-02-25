@@ -6,7 +6,7 @@
   
   - 🔭 I’m currently working as a Frontend Developer in HaNoi
   - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an anagram of "I Play Data"
+  - ⚡ " The only person you should try to be better than is the person you were yesterday."
   
   #### 📫 How to reach me:
   
